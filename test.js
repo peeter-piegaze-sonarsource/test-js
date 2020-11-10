@@ -1,3 +1,4 @@
+// The fibonacci function: iterative solution
 function fibonacci(num) {
     var a = 1, b = 0, temp;
 
